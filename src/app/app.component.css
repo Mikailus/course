@@ -1,0 +1,14 @@
+.div {
+  width: 250px;
+  height: 30px;
+  border: 1px solid red;
+}
+
+.button {
+  border: 1px solid red;
+  margin: 0 10px;
+}
+
+.clicked-button {
+  padding: 10px;
+}
